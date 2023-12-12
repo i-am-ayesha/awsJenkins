@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>This is My first PHP page</h1>
+<h1>This is  first PHP page</h1>
 
 <?php
 echo "Hello World!";
