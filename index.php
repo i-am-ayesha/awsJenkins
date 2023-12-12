@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
-   <body style="background-color:lightgoldenrodyellow;">
-      <h1>Welcome to this Page of Html</h1>
-      <p>This is Demo </p>
-      <p>Application Version: V1</p>
-   </body>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
 </html>
